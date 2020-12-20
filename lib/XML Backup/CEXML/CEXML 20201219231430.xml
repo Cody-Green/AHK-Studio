@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<cexml>
+	<files>
+		<main file="H:\AHK-SCRIPTING\AHK-STUDIO\AHK-Studio\Projects\Last-Epoch-Script-WIP.ahk" id="1">
+			<file dir="H:\AHK-SCRIPTING\AHK-STUDIO\AHK-Studio\Projects" ext="ahk" file="H:\AHK-SCRIPTING\AHK-STUDIO\AHK-Studio\Projects\Last-Epoch-Script-WIP.ahk" filename="Last-Epoch-Script-WIP.ahk" id="2" lang="ahk" lower="h:\ahk-scripting\ahk-studio\ahk-studio\projects\last-epoch-script-wip.ahk" nne="Last-Epoch-Script-WIP" type="File" time="20201219231428" encoding="CP1252"></file></main>
+	</files>
+	<Libraries>
+		<main file="C:\Users\codyw\Documents\Autohotkey\Lib\DebugWindow.AHK" id="3">
+			<file dir="C:\Users\codyw\Documents\Autohotkey\Lib" ext="AHK" file="C:\Users\codyw\Documents\Autohotkey\Lib\DebugWindow.AHK" filename="DebugWindow.AHK" id="4" lang="ahk" lower="c:\users\codyw\documents\autohotkey\lib\debugwindow.ahk" nne="DebugWindow" type="File" time="20201219201627" encoding="UTF-8"></file></main>
+	</Libraries>
+</cexml>

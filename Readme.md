@@ -1,1 +1,1 @@
-Created with AHK Studio
+Created with AHK-Studio<br>Check out the Wiki for more info

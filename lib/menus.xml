@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <menus>
 	<main>
 		<menu name="&amp;File" clean="File" top="1">
@@ -337,6 +337,7 @@
 				<menu name="&amp;Social" clean="Social" no="1" delete="1"></menu>
 				<menu clean="Testing" name="Testing" hotkey="^K"></menu></menu>
 			<menu name="&amp;About" clean="About"></menu></menu>
+		<menu clean="Plugin" name="P&amp;lugin" no="1" delete="1"></menu>
 	</main>
-	<date>20201005085332</date>
+	<date>20200316081726</date>
 </menus>
